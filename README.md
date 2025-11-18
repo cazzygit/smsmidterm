@@ -390,7 +390,7 @@ simplelaravelproject-ssm-main/
 
 **Student Name**: Delysha Grace Paz  
 **Partner Name**: Alvin De Mesa  
-**Course**: ITPC 115  
+**Subject**: ITPC 115  
 **Project**: Midterm Examination - Student Management System  
 **Academic Year**: 2024-2025  
 **Instructor**: Mr. Manny Rimorin Hortizuela
