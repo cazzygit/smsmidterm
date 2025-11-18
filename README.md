@@ -393,7 +393,7 @@ simplelaravelproject-ssm-main/
 **Subject**: ITPC 115  
 **Project**: Midterm Examination - Student Management System  
 **Academic Year**: 2024-2025  
-**Instructor**: Mr. Manny Rimorin Hortizuela
+**Instructor**: Mr. Manny Hortizuela
 
 ---
 
